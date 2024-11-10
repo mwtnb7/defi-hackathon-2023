@@ -1,1 +1,1 @@
-# defi-hackathon-2023
+# defi-hackathon-xrpl-game
